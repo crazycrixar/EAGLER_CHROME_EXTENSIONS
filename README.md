@@ -25,4 +25,4 @@ Contributions to the Eaglercraft Chrome Extension are welcome! If you encounter 
 
 ## Disclaimer
 The Eaglercraft Chrome Extension is not affiliated with the Eaglercraft game project. Nor is it Affliated with mojang, microsoft or any other entites controlling MINECRAFT It is an unofficial extension developed by Me.
-
+INFO: This extension does not contain any materials owned by microsoft mojang, or any other entites that own minecraft
